@@ -20,6 +20,6 @@ Minimalist mindset — less noise, more impact.
 ---
 
 ### Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=LIouche&hide_border=true&ring=990000&fire=990000&currStreakLabel=990000&background=0d1117&dates=c9d1d9)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=LIouche&hide_border=true&background=0d1117&ring=990000&fire=990000&currStreakLabel=990000&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=aaaaaa)
 
 ---
