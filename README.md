@@ -1,36 +1,25 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=LIouche&fontSize=40&fontColor=fff&animation=fadeIn" />
-</p>
+[![wakatime](https://wakatime.com/badge/user/2958d298-dda5-478a-a46a-582559a6d0c6.svg)](https://wakatime.com/@2958d298-dda5-478a-a46a-582559a6d0c6) 
+![](https://komarev.com/ghpvc/?username=LIouche&label=Profile+Views&color=2f81f7&style=flat-square)
 
 ---
 
-<!-- Profile Summary -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LIouche&theme=github_dark" />
-</p>
-
-<!-- Language & Repo Stats -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LIouche&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LIouche&theme=github_dark" />
-</p>
-
-<!-- Contributions & General Stats -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LIouche&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LIouche&theme=github_dark&utcOffset=8" />
-</p>
+### About Me
+Minimalist developer who values clean design, efficient code, and open-source philosophy.  
+Currently building tools that aim for **clarity, speed, and originality**.  
 
 ---
 
-<!-- Social Badges -->
-<p align="center">
-  <img alt="Followers" src="https://img.shields.io/github/followers/LIouche?label=Followers&color=6a11cb&labelColor=0d1117&style=flat-square" />
-  <img alt="Stars" src="https://img.shields.io/github/stars/LIouche?color=6a11cb&labelColor=0d1117&style=flat-square" />
-</p>
+### Overall Status
+![Stats](https://github-readme-stats.vercel.app/api?username=LIouche&show_icons=true&hide_border=true&title_color=2f81f7&icon_color=2f81f7&text_color=c9d1d9&bg_color=0d1117)
 
-<!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer" />
-</p>
+---
+
+### Languages
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=LIouche&layout=compact&hide_border=true&title_color=2f81f7&text_color=c9d1d9&bg_color=0d1117&hide=javascript,html,css)
+
+---
+
+### Streak
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=LIouche&hide_border=true&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7&background=0d1117&dates=c9d1d9)
+
+---
