@@ -4,8 +4,7 @@
 ---
 
 ### About Me
-Focused on building **efficient, sharp, and original tools**.  
-Minimalist mindset — less noise, more impact.  
+I like watching anime and reading manwha, manhua, and manga. lol
 
 ---
 
